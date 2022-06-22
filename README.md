@@ -1,3 +1,3 @@
-# Mario da StartSe
+# Mario
 
-Joguinho feito na live da StartSe
+Joguinho de Mário Jumper feito com HTML, CSS e JavaScript. 
